@@ -4,4 +4,4 @@
 
 
 ### 📤 Deploy
-"https://heroku.com/deploy?template=https://github.com/TechShreyash/TechZ-Logo-Maker-Bot.git"
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chathush999/c-logo-maker-bot)
