@@ -6,7 +6,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message, 
 from main.logo import generate_logo
 
 START = """
-**🔮 Hello There, You Can Use Me To Create Awesome Logos...**
+**start masege danna**
 
 ➤ Click /help Or The Button Below To Know How To Use Me
 """
